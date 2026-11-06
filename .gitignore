@@ -1,0 +1,7 @@
+*.fa
+*.gtf
+*.fai
+*.bt2
+*.bt2l
+validation.local.json
+__pycache__/
